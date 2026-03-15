@@ -1,2 +1,2 @@
 # gcp-devops-project
-Demo Project for GCP DevOps
+This is a repo for our new GCP DevOPS projects
